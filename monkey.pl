@@ -1,6 +1,6 @@
 /** <module> Monkey and cage problem solver
 @author Kliujeu Aliaksandr
-@license MIT
+@license Apache 2.0
 */
 
 nth01(I, A, E):-
